@@ -2,10 +2,9 @@
 
 
 <p align="center">
-<a href="https://stackoverflow.com/users/390708" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="390708" height="30" width="30" /></a>
-</p>
-
-
+<a href="https://stackoverflow.com/users/390708/brian"><img src="https://stackoverflow.com/users/flair/390708.png" alt="profile for Brian at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Brian at Stack Overflow, Q&amp;A for professional and enthusiast programmers" width="208" height="58"></a>
+</p>  
+  
 <!--
 **bblaine/bblaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
